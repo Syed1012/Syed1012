@@ -35,7 +35,7 @@
 ---
 
 ### 💡 Fun Fact:
-**Coding** is my passion, but I also enjoy exploring AI innovations, cloud solutions, and container tech!
+**Coding** is my passion, but I also enjoy exploring AI innovations, cloud solutions, and container tech
 
 ---
 
