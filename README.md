@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://syed1012.github.io/My-portfolio/](https://syed1012.github.io/My-portfolio/)
 
-- 💬 Ask me about Front-End(React, Vue, Angular), Backend (Springboot, Express, Node, Flask), Containerization and Orchestration with docker and kubernetes, CI/CD pipelines etc.,
+- 💬 Ask me about Front-End(React, Vue, Angular), Backend (Springboot, Express, Node, Flask), Database Both Relational (SQL, PLSQL) and Non Relational (MongoDB), Cloud AWS EC2, S3 - DynamoDB, Lambda etc., Containerization and Orchestration with docker and kubernetes, CI/CD pipelines etc.,
   
 - 📫 How to reach me **syedmusaib66@gmail.com**
 
