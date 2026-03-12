@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed1012&label=Profile%20views&color=0e75b6&style=flat" alt="syed1012" /> </p>
 
-- 🔭 I’m currently working on AI - Vehicle Management System (AI-VMS) **[Full stack- FrontEnd React, Backend- Springboot, MongoDB, Docker, Python]**
-
-- 🌱 I’m currently learning and working on **kubernetes and it's services with AWS EKS, Azure AKS.**
-
-- 🤝 I’m looking to collaborate on AIVMS (Front-End part) and ML part (backend).
-
 - 💬 Ask me about Front-End(React, Vue, Angular), Backend (Springboot, Express, Node, Flask), Database Both Relational (SQL, PLSQL) and Non Relational (MongoDB), Cloud AWS EC2, S3 - DynamoDB, Lambda etc., Containerization and Orchestration with docker and kubernetes, CI/CD pipelines etc.,
   
 - 📫 How to reach me **syedmusaib66@gmail.com**
