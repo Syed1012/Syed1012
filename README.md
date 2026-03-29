@@ -86,7 +86,7 @@ Data as decision fuel
 ## 🧠 Experience
 
 <p align="center">
-  <em>GitHub README does not support true tabs, so this section uses collapsible panels plus quick-jump navigation for a tab-like browsing experience.</em>
+  <em>GitHub README does not support true tabs, so this section uses collapsible panels to create a tab-like browsing experience.</em>
 </p>
 
 <details open>
