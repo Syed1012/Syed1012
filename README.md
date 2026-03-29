@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,30:1d4ed8,70:06b6d4,100:22c55e&text=Syed%20Musaib&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Solutions%20Architect%20%E2%80%A2%20Automation%20Engineer&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=980&lines=Building+intelligent+systems+that+turn+ideas+into+execution;Designing+AI-powered+products%2C+automation+flows%2C+and+scalable+platforms;Bridging+full-stack+engineering%2C+cloud+architecture%2C+and+LLM-driven+experiences" alt="Animated professional tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=980&lines=Building+intelligent+systems+that+turn+ideas+into+execution;Designing+AI-powered+products%2C+automation+flows%2C+and+scalable+platforms;Bridging+full-stack+engineering%2C+cloud+architecture%2C+and+LLM-driven+experiences" alt="Animated tagline: Building intelligent systems that turn ideas into execution; designing AI-powered products, automation flows, and scalable platforms; bridging full-stack engineering, cloud architecture, and LLM-driven experiences." />
 </p>
 
 <p align="center">
@@ -58,13 +58,11 @@
 
 ### 🌌 What Defines My Work
 
-```text
-Intelligent by design
-Automation as leverage
-Full-stack as foundation
-Cloud as accelerator
-Data as decision fuel
-```
+- **Intelligent by design**
+- **Automation as leverage**
+- **Full-stack as foundation**
+- **Cloud as accelerator**
+- **Data as decision fuel**
 
 ### 🎯 Operating Style
 
@@ -84,10 +82,6 @@ Data as decision fuel
 <a id="experience"></a>
 
 ## 🧠 Experience
-
-<p align="center">
-  <em>GitHub README does not support true tabs, so this section uses collapsible panels to create a tab-like browsing experience.</em>
-</p>
 
 <details open>
   <summary><strong>🤖 AI Solutions & LLM Engineering</strong></summary>
