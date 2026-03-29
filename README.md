@@ -89,7 +89,7 @@ Data as decision fuel
   <em>GitHub README does not support true tabs, so this section uses collapsible panels plus quick-jump navigation for a tab-like browsing experience.</em>
 </p>
 
-<details open>
+<details open aria-label="AI Solutions and LLM Engineering experience">
   <summary><strong>🤖 AI Solutions & LLM Engineering</strong></summary>
   <br />
 
@@ -100,7 +100,7 @@ Data as decision fuel
 
 </details>
 
-<details>
+<details aria-label="Full-Stack Product Engineering experience">
   <summary><strong>💻 Full-Stack Product Engineering</strong></summary>
   <br />
 
@@ -111,7 +111,7 @@ Data as decision fuel
 
 </details>
 
-<details>
+<details aria-label="Cloud, Data and Platform Delivery experience">
   <summary><strong>☁️ Cloud, Data & Platform Delivery</strong></summary>
   <br />
 
@@ -122,7 +122,7 @@ Data as decision fuel
 
 </details>
 
-<details>
+<details aria-label="Automation Engineering experience">
   <summary><strong>⚙️ Automation Engineering</strong></summary>
   <br />
 
@@ -139,7 +139,7 @@ Data as decision fuel
 
 ## 🌍 Domain Experience
 
-<details open>
+<details open aria-label="Semantic Search, Retrieval and Knowledge Systems domain experience">
   <summary><strong>🔎 Semantic Search, Retrieval & Knowledge Systems</strong></summary>
   <br />
 
@@ -149,7 +149,7 @@ Data as decision fuel
 
 </details>
 
-<details>
+<details aria-label="AI Copilots, Wrappers and Assistive Interfaces domain experience">
   <summary><strong>🧩 AI Copilots, Wrappers & Assistive Interfaces</strong></summary>
   <br />
 
@@ -159,7 +159,7 @@ Data as decision fuel
 
 </details>
 
-<details>
+<details aria-label="Workflow Automation and Operational Efficiency domain experience">
   <summary><strong>🔄 Workflow Automation & Operational Efficiency</strong></summary>
   <br />
 
@@ -169,7 +169,7 @@ Data as decision fuel
 
 </details>
 
-<details>
+<details aria-label="Cloud-Native Application Delivery domain experience">
   <summary><strong>🏗️ Cloud-Native Application Delivery</strong></summary>
   <br />
 
