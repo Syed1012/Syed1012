@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,30:1d4ed8,70:06b6d4,100:22c55e&text=Syed%20Musaib&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Solutions%20Architect%20%E2%80%A2%20Cloud&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=From+real-time+MQTT+pipelines+to+autonomous+AI+platforms+%E2%80%94+I+build+what+the+product+needs;Authentication+flows%2C+event-driven+backends%2C+LLM+orchestration+%E2%80%94+full+spectrum+engineering;Shipping+production+systems+across+automotive%2C+cloud+infrastructure%2C+and+AI" alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=From+real-time+MQTT+pipelines+to+autonomous+AI+platforms+%E2%80%94+I+build+what+the+product+needs;Auth+flows%2C+EDA-+backends%2C+LLM+orchestration+%E2%80%94+full+spectrum+engineering;Shipping+production+systems+across+automotive%2C+cloud+infrastructure%2C+and+AI" alt="Animated tagline" />
 </p>
 
 <p align="center">
